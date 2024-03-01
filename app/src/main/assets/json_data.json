@@ -1,0 +1,34 @@
+{"employee":[
+  {
+    "id": 1,
+    "name": "Shlok Yadav",
+    "dob": "1990-05-15",
+    "role": "Software Engineer"
+  },
+  {
+    "id": 2,
+    "name": "Anushka Mahamulkar",
+    "dob": "1985-10-20",
+    "role": "Project Manager"
+  },
+  {
+    "id": 3,
+    "name": "Prabhat Pal",
+    "dob": "1992-03-25",
+    "role": "UX Designer"
+  },
+  {
+    "id": 4,
+    "name": "Shreyash Yadav",
+    "dob": "1988-07-08",
+    "role": "Data Analyst"
+  },
+  {
+    "id": 5,
+    "name": "Neesha Diwakar",
+    "dob": "1995-12-12",
+    "role": "Marketing Specialist"
+  }
+]
+}
+
